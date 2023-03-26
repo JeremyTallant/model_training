@@ -1,1 +1,1 @@
-# model_training.github.io
+This repository contains the Databricks HTML file for our machine learning model.
