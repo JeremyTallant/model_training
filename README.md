@@ -1,1 +1,5 @@
-# This is the Databricks HTML file of our model for our machine learning project. 
+# Presented here is the HTML file of our machine learning project model, developed using Databricks.
+
+
+
+
